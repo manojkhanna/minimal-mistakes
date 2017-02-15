@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about.md
+    url: /_pages/about.md
   - title: "Blog"
     url: https://manojkhanna.github.io
   - title: "Articles"
@@ -9,7 +9,7 @@ main:
   - title: "Books"
     url: https://manojkhanna.github.io
   - title: "Contact"
-    url: /contact.md 
+    url: /_pages/contact.md
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
