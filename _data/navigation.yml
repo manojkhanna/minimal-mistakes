@@ -1,15 +1,15 @@
 # main links
 main:
-  - title: "About"
-    url: /_pages/about.md
-  - title: "Blog"
-    url: https://manojkhanna.github.io
-  - title: "Articles"
-    url: https://manojkhanna.github.io
-  - title: "Books"
-    url: https://manojkhanna.github.io
-  - title: "Contact"
-    url: /_pages/contact.md
+#  - title: "About"
+#    url: /_pages/about.md
+#  - title: "Blog"
+#    url: https://manojkhanna.github.io
+#  - title: "Articles"
+#    url: https://manojkhanna.github.io
+#  - title: "Books"
+#    url: https://manojkhanna.github.io
+#  - title: "Contact"
+#    url: /_pages/contact.md
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
